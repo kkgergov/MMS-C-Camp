@@ -1,0 +1,13 @@
+1.
+    ps aux | wc -l
+
+2.
+    mkdir ./'MMS C Camp'
+    cp *.c ./'MMS C Camp'
+    rm [0-9]*
+
+3.
+    chmod 754 ~/Desktop/testFile
+
+4.
+    wc -l zad1.c zad2.c > linecount.txt
