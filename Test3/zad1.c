@@ -45,6 +45,7 @@ int main()
     filterRects(&head, 10., 100.);
     printf("----after filter----\n\n");
     print_rectangles(head);
+    clearList(&head);
 
     return 0;
 }
